@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQ7BORRppQY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\Desktop\\Estudos\\Estudar\\JavaScript\\mini-projeto-fetch\\back-end\\back-end.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
